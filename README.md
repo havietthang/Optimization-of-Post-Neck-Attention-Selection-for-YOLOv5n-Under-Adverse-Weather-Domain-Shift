@@ -1,0 +1,2 @@
+# Optimization-of-Post-Neck-Attention-Selection-for-YOLOv5n-Under-Adverse-Weather-Domain-Shift
+This repository and article expand our CSoNet 2025 paper, “Attention-Enhanced YOLO-Nano for Adverse Weather Object Detection.” The new version adds more training and validation data, uses the strongest earlier YOLOv5n + ResCBAMx4 neck baseline, and compares lightweight post-neck attention modules while keeping the DAWN test set unchanged.
